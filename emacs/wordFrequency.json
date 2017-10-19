@@ -1,5 +1,5 @@
 {
     Emacs:
-  'Kuno': 1, 
-  'Vishta': 25
+  'Kuno': 25, 
+    'Vishta': 1,
 }
